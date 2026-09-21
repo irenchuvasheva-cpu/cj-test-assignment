@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "job_uid": "rev-1",
+      "company": "Revolut",
+      "title": "Senior Recruiter (Product)",
+      "location": "London",
+      "published_at": "2026-09-18"
+    },
+    {
+      "job_uid": "rev-2",
+      "company": "Revolut Ltd",
+      "title": "Talent Partner",
+      "location": "Berlin",
+      "published_at": "2026-09-18"
+    },
+    {
+      "job_uid": "rev-3",
+      "company": "Revolut",
+      "title": "Recruitment Coordinator",
+      "location": "Krakow",
+      "published_at": "2026-09-17"
+    },
+    {
+      "job_uid": "book-ams",
+      "company": "Booking.com",
+      "title": "Technical Recruiter",
+      "location": "Amsterdam",
+      "published_at": "2026-09-18"
+    },
+    {
+      "job_uid": "book-ber",
+      "company": "Booking",
+      "title": "Technical Recruiter",
+      "location": "Berlin",
+      "published_at": "2026-09-17"
+    },
+    {
+      "job_uid": "asos-new",
+      "company": "ASOS",
+      "title": "People Partner",
+      "location": "London",
+      "published_at": "2026-09-16"
+    },
+    {
+      "job_uid": "remote-1",
+      "company": "Remote.com",
+      "title": "HR Operations Manager",
+      "location": "Lisbon",
+      "published_at": "2026-09-16"
+    },
+    {
+      "job_uid": "stripe-1",
+      "company": "Stripe",
+      "title": "University Recruiter",
+      "location": "Dublin",
+      "published_at": "2026-09-15"
+    }
+  ]
+}
